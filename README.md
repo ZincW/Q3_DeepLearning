@@ -11,10 +11,12 @@ References:
 
 4.https://www.jiqizhixin.com/articles/2018-02-21-2
 
+5.Behind Tacotron 2: Google’s Incredibly Real Text To Speech System: https://analyticsindiamag.com/tacotron-2-google-ai-text-to-speech-system/
+
 Dataset:
 
 1.The NSynth Dataset(for music): https://magenta.tensorflow.org/datasets/nsynth and the related paper: https://arxiv.org/abs/1704.01279
 
-2.Behind Tacotron 2: Google’s Incredibly Real Text To Speech System: https://analyticsindiamag.com/tacotron-2-google-ai-text-to-speech-system/
+
 
 
