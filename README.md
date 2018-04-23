@@ -19,5 +19,5 @@ Dataset:
 
 2.TED http://www.openslr.org/7/
 
-3. GOOGLE DATA: https://research.google.com/audioset//dataset/speech.html
+3.GOOGLE DATA: https://research.google.com/audioset//dataset/speech.html
 
