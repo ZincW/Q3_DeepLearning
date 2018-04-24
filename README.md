@@ -23,3 +23,4 @@ Dataset:
 
 4.dataset from github: http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html
 
+5.book: https://keithito.com/LJ-Speech-Dataset/
